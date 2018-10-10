@@ -1,5 +1,3 @@
-abcdef
 
-nhung sua dong thu 2 
+xoa het
 
-xoa thay doi cua Hue
