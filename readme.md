@@ -1,5 +1,5 @@
-abcd
+abcdef
 
-nhung da them 1 dong nha
+nhung sua dong thu 2 
 
-Hue thay doi
+xoa thay doi cua Hue
